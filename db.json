@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "Title": "First Stream",
+      "Description": "My First Stream call to the server",
+      "id": 1
+    },
+    {
+      "Title": "2nd stream",
+      "Description": "heres the second one",
+      "id": 2
+    },
+    {
+      "Title": "abdul",
+      "Description": "my name",
+      "id": 3
+    },
+    {
+      "Title": "First Stream ",
+      "Description": "A Stream Linked with OBS",
+      "userId": "107886090926709375077",
+      "id": 6
+    }
+  ]
+}
